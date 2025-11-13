@@ -1,3 +1,5 @@
+# Q5: Count frequency of each character in a string (ignore case)
+
 text = input("Enter a string: ").lower()
 freq = {}
 for ch in text:

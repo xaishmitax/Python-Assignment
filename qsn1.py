@@ -1,3 +1,5 @@
+# Q1: Convert float to int and string, display all
+
 num = float(input("please enter decimal number of your choice:"))
 int_num= int(num)
 str_num= str(num)

@@ -1,3 +1,5 @@
+# Q6: Count vowels and consonants in a string (ignore spaces/special characters)
+
 text = input("Enter a string: ").lower()
 vowels = 0
 consonants = 0

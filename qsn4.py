@@ -1,3 +1,5 @@
+# Q4: Check password strength (weak, moderate, strong)
+
 password = input("Enter your password: ")
 
 for ch in password:
